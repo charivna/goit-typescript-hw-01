@@ -6,3 +6,5 @@ if (button && input) {
     concatenation(input.value, "hello!");
   });
 }
+
+// hello
